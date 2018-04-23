@@ -22,6 +22,7 @@ namespace Day8
         } */
         public void StartNewGame()
         {
+            varduMasivs = varduMasivs.OrderBy(c => Guid.NewGuid()).ToArray();
             vards = varduMasivs[0];
             uzminiVardu = new char[vards.Length]; //te es iedevu mainīgajam vērtību
             for (int i = 0; i < vards.Length; i++)

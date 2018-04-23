@@ -14,9 +14,9 @@ namespace Day8
             // Uzdevumi.Masivi();
             //Uzdevumi.SkaitluSerija();
             // Uzdevumi.CiparuSumma();
-            Dimantins.Dimants();
+           // Dimantins.Dimants();
 
-            /*
+            
             
             Karatavas karatavas = new Karatavas();
              karatavas.StartNewGame();
@@ -54,7 +54,7 @@ namespace Day8
                        break;
                     }
                  }
-            } */
+            } 
             Console.ReadLine();
         } 
     }

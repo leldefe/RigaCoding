@@ -23,7 +23,18 @@ namespace BlackJack.Klases
         //Kārts skaitliskā vērtība
         public int GetValue()
         {
-            return 0;
+            switch(Value)
+            {
+                case "A": //šeit mēs apskatām maksimālās vērtības
+                    return 11;
+                case "J":
+                case "Q":
+                case "K":
+                    return 10;
+                default:
+                    return Convert.ToInt32(Value); //pārējie ir skaitļi no 2-10 un tos var vnk konvertēt
+            }
+            
         }
     }
 }

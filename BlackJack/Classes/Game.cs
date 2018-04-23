@@ -8,8 +8,8 @@ namespace BlackJack.Klases
 {
     class Game
     {
-        public Dealer Dealer;
-        public Player Player;
+        public Dealer Dealer; //mainīgie, kas tiks izmantoti šajā klasē - īpašības, kas nepieciešamas, lai šī klase funkcionēta
+        public Player Player; //ja tiek ierakstīts šeit augšā, tad ir pieejams citām funkcijām, ja ierakstīs funkcijas ietvaros, tad tikai funkcijā būs pieejams, piem., Deck Deck = new Deck(); lejā zem startNew if-a
         public Deck Deck;
 
         public bool StartNewGame()
@@ -23,16 +23,20 @@ namespace BlackJack.Klases
             if (startNew)
             {
                 Console.WriteLine("Uzsākt jaunu spēli!");
-                Deck = new Deck();      //katru reizi, kad tiks uzsākta jauna spēle, tiks izveidotas jaunas šīs lietas
+                Deck = Deck.TakeNewDeck();      //bija Deck= new Deck(), bet aizvietojām ar esošo, jo izražojām Deck klasē statisku jaunu funkciju. Katru reizi, kad tiks uzsākta jauna spēle, tiks izveidotas jaunas šīs lietas
                 Dealer = new Dealer();
                 Player = new Player();
+
+                Deck.Shuffle();
+                Card card = Deck.TakeCard();
+                Console.WriteLine("Kārts " + card.Value + card.Suit);
 
             }
             return startNew;
         }
         public static bool GetAnswer(string question) //izsauksim šo funkciju ar trīs rindiņām vienmēr, kad mums būs jautājums
         {
-            Console.Write(question + "jā/nē");
+            Console.Write(question + "jā/nē ");
             string atbilde = Console.ReadLine().ToLower();
             bool answer = atbilde == "jā";
 

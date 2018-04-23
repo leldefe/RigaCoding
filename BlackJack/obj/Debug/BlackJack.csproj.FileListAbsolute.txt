@@ -4,3 +4,4 @@ C:\Users\lelde\source\repos\RigaCoding\BlackJack\bin\Debug\BlackJack.pdb
 C:\Users\lelde\source\repos\RigaCoding\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
 C:\Users\lelde\source\repos\RigaCoding\BlackJack\obj\Debug\BlackJack.exe
 C:\Users\lelde\source\repos\RigaCoding\BlackJack\obj\Debug\BlackJack.pdb
+C:\Users\lelde\source\repos\RigaCoding\BlackJack\obj\Debug\BlackJack.csprojResolveAssemblyReference.cache
