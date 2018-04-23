@@ -1,0 +1,7 @@
+C:\Users\lelde\source\repos\RigaCoding\Nedela1 MD1\bin\Debug\Nedela1 MD1.exe.config
+C:\Users\lelde\source\repos\RigaCoding\Nedela1 MD1\bin\Debug\Nedela1 MD1.exe
+C:\Users\lelde\source\repos\RigaCoding\Nedela1 MD1\bin\Debug\Nedela1 MD1.pdb
+C:\Users\lelde\source\repos\RigaCoding\Nedela1 MD1\obj\Debug\Nedela1 MD1.csprojResolveAssemblyReference.cache
+C:\Users\lelde\source\repos\RigaCoding\Nedela1 MD1\obj\Debug\Nedela1 MD1.csproj.CoreCompileInputs.cache
+C:\Users\lelde\source\repos\RigaCoding\Nedela1 MD1\obj\Debug\Nedela1 MD1.exe
+C:\Users\lelde\source\repos\RigaCoding\Nedela1 MD1\obj\Debug\Nedela1 MD1.pdb

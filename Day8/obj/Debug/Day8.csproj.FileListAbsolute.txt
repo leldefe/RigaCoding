@@ -1,0 +1,7 @@
+C:\Users\lelde\source\repos\RigaCoding\Day8\bin\Debug\Day8.exe.config
+C:\Users\lelde\source\repos\RigaCoding\Day8\bin\Debug\Day8.exe
+C:\Users\lelde\source\repos\RigaCoding\Day8\bin\Debug\Day8.pdb
+C:\Users\lelde\source\repos\RigaCoding\Day8\obj\Debug\Day8.csprojResolveAssemblyReference.cache
+C:\Users\lelde\source\repos\RigaCoding\Day8\obj\Debug\Day8.csproj.CoreCompileInputs.cache
+C:\Users\lelde\source\repos\RigaCoding\Day8\obj\Debug\Day8.exe
+C:\Users\lelde\source\repos\RigaCoding\Day8\obj\Debug\Day8.pdb

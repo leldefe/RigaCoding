@@ -1,0 +1,6 @@
+C:\Users\lelde\source\repos\RigaCoding\Day3 Sazarojumi\bin\Debug\Day3 Sazarojumi.exe.config
+C:\Users\lelde\source\repos\RigaCoding\Day3 Sazarojumi\bin\Debug\Day3 Sazarojumi.exe
+C:\Users\lelde\source\repos\RigaCoding\Day3 Sazarojumi\bin\Debug\Day3 Sazarojumi.pdb
+C:\Users\lelde\source\repos\RigaCoding\Day3 Sazarojumi\obj\Debug\Day3 Sazarojumi.csproj.CoreCompileInputs.cache
+C:\Users\lelde\source\repos\RigaCoding\Day3 Sazarojumi\obj\Debug\Day3 Sazarojumi.exe
+C:\Users\lelde\source\repos\RigaCoding\Day3 Sazarojumi\obj\Debug\Day3 Sazarojumi.pdb

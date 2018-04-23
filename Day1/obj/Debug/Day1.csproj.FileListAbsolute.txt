@@ -1,0 +1,7 @@
+C:\Users\lelde\source\repos\RigaCoding\Day1\bin\Debug\Day1.exe.config
+C:\Users\lelde\source\repos\RigaCoding\Day1\bin\Debug\Day1.exe
+C:\Users\lelde\source\repos\RigaCoding\Day1\bin\Debug\Day1.pdb
+C:\Users\lelde\source\repos\RigaCoding\Day1\obj\Debug\Day1.csprojResolveAssemblyReference.cache
+C:\Users\lelde\source\repos\RigaCoding\Day1\obj\Debug\Day1.csproj.CoreCompileInputs.cache
+C:\Users\lelde\source\repos\RigaCoding\Day1\obj\Debug\Day1.exe
+C:\Users\lelde\source\repos\RigaCoding\Day1\obj\Debug\Day1.pdb

@@ -1,0 +1,7 @@
+C:\Users\lelde\source\repos\RigaCoding\Day5_Praktiskais1\bin\Debug\Day5_Praktiskais1.exe.config
+C:\Users\lelde\source\repos\RigaCoding\Day5_Praktiskais1\bin\Debug\Day5_Praktiskais1.exe
+C:\Users\lelde\source\repos\RigaCoding\Day5_Praktiskais1\bin\Debug\Day5_Praktiskais1.pdb
+C:\Users\lelde\source\repos\RigaCoding\Day5_Praktiskais1\obj\Debug\Day5_Praktiskais1.csprojResolveAssemblyReference.cache
+C:\Users\lelde\source\repos\RigaCoding\Day5_Praktiskais1\obj\Debug\Day5_Praktiskais1.csproj.CoreCompileInputs.cache
+C:\Users\lelde\source\repos\RigaCoding\Day5_Praktiskais1\obj\Debug\Day5_Praktiskais1.exe
+C:\Users\lelde\source\repos\RigaCoding\Day5_Praktiskais1\obj\Debug\Day5_Praktiskais1.pdb

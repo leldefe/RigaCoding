@@ -1,0 +1,7 @@
+C:\Users\lelde\source\repos\RigaCoding\Day1_Klases\bin\Debug\Day1_Klases.exe.config
+C:\Users\lelde\source\repos\RigaCoding\Day1_Klases\bin\Debug\Day1_Klases.exe
+C:\Users\lelde\source\repos\RigaCoding\Day1_Klases\bin\Debug\Day1_Klases.pdb
+C:\Users\lelde\source\repos\RigaCoding\Day1_Klases\obj\Debug\Day1_Klases.csproj.CoreCompileInputs.cache
+C:\Users\lelde\source\repos\RigaCoding\Day1_Klases\obj\Debug\Day1_Klases.exe
+C:\Users\lelde\source\repos\RigaCoding\Day1_Klases\obj\Debug\Day1_Klases.pdb
+C:\Users\lelde\source\repos\RigaCoding\Day1_Klases\obj\Debug\Day1_Klases.csprojResolveAssemblyReference.cache
