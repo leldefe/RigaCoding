@@ -28,9 +28,13 @@ namespace BlackJack.Klases
                 Player = new Player();
 
                 Deck.Shuffle();
-                Card card = Deck.TakeCard();
-                Console.WriteLine("Kārts " + card.Value + card.Suit);
+                Player.GiveCard(Deck.TakeCard()); //mums vajag iedot 2 kārtis spēlētājam, tāpēc divreiz šī rindiņa
+                Player.GiveCard(Deck.TakeCard());
 
+                while(Player.NeedAnotherCard())
+                {
+                    Player.GiveCard(Deck.TakeCard());
+                }
             }
             return startNew;
         }
